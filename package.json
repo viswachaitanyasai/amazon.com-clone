@@ -1,0 +1,11 @@
+{
+  "name": "amazon-clone",
+  "version": "1.0.0",
+  "description": "clone of amazon.com",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "viswa",
+  "license": "ISC"
+}
